@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "dudenbotgames.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "dudenbotgames.github",
+  "start_url": "/",
+  "theme_color": "#0c4a6e"
+}
